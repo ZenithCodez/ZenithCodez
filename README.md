@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZenithCodez
 - 👀 I’m interested in Software engineering and Data Analysis.
-- 🌱 I’m currently learning HTML, CSS ,Javascript, and SQL!
+- 🌱 I’m currently learning HTML, CSS , Javascript, and SQL!
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me https://www.linkedin.com/in/zenithcodez/
 
